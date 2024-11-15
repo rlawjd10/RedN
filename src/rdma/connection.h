@@ -16,9 +16,9 @@
 #include <rdma/rdma_cma.h>
 #include <infiniband/verbs.h>
 
-#ifdef EXP_VERBS
-#include <infiniband/verbs_exp.h>
-#endif
+// #ifdef EXP_VERBS
+// #include <infiniband/verbs_exp.h>
+// #endif
 
 #include "uthash.h"
 #include "messaging.h"
