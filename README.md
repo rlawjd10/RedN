@@ -41,7 +41,7 @@ month = apr,
 
 
 ## Contact
-Waleed Reda (waleedreda@hotmail.com)
+Waleed Reda (waleedreda@hotmail.com
 
 ## License
 This software is provided under the terms of the [GNU General Public License 2](https://www.gnu.org/licenses/gpl-2.0.html).
