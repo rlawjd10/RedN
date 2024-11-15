@@ -131,7 +131,7 @@ static inline char* stringify_verb(int opcode)
 		       return "UNDEFINED";
 	}
 }
-/*
+
 #ifdef EXP_VERBS
 static inline char* stringify_exp_verb(int opcode)
 {
@@ -165,7 +165,7 @@ static inline char* stringify_exp_verb(int opcode)
 	}
 }
 #endif
-*/
+
 static inline int op_one_sided(int opcode)
 {
 	if((opcode == IBV_WR_RDMA_READ) || (opcode == IBV_WR_RDMA_WRITE)
